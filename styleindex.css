@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: black;
+    color:white;
+}
+#insert{
+    color:#BEE428;
+}
+#read{
+    color:#50C6B6;
+}
+#update{
+    color:#E2E234;
+}
+#delete{
+    color:#CE405D;
+}
